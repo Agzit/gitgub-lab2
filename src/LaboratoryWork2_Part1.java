@@ -15,7 +15,7 @@ public class LaboratoryWork2_Part1 {
 
         boolean exit = false;
 
-        // === ГЛАВНОЕ МЕНЮ (Уровень 1) ===
+        // ГЛАВНОЕ МЕНЮ
         do {
             displayMainMenu();
             int mainChoice = getValidatedInt(1, 8);
